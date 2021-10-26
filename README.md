@@ -12,4 +12,4 @@
 
 
 # PULL REQUSET:
-[PR ]()
+[PR ](https://github.com/mohammadsilwadi/linear-regression/pull/1)
